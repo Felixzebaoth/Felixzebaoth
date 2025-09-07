@@ -8,5 +8,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,mysql,laravel,docker,postman,redis,postgres,gcp,mongodb)](https://skillicons.dev)  
 
- ### ![felix-portofolio](https://github.com/user-attachments/assets/9e5f47de-95a7-4a6b-b59d-f54912cd45c3)   ![download (13)](https://github.com/user-attachments/assets/9fd0124b-6150-4f3c-b673-0274fdc9b889)
 
